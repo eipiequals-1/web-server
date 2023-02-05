@@ -12,4 +12,4 @@ This is licensed under MIT the MIT Licence. All uses of this software must maint
 - Run: ```./bin/web_server```
 
 ## Getting Started
-- main.cpp for a workflow overview!
+- View main.cpp for a workflow overview!
